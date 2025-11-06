@@ -4,9 +4,7 @@
   >
     <!-- Name & Skills -->
     <div class="text-center space-y-6 relative z-10">
-      <h1
-        class="text-4xl md:text-6xl font-extrabold tracking-tight"
-      >
+      <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight">
         Ekaterine Makashvili
       </h1>
 
@@ -26,7 +24,9 @@
     </div>
 
     <!-- Projects Grid -->
-    <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 gap-5 mt-10 relative z-10">
+    <div
+      class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-4 gap-5 mt-10 relative z-10"
+    >
       <a
         v-for="(proj, index) in projects"
         :key="index"
@@ -59,16 +59,21 @@ export default {
       projects: [
         {
           title: "Project 1",
+          link: "https://yoga-game.netlify.app/",
+          img: "yoga.gif",
+        },
+        {
+          title: "Project 2",
           link: "https://3d-galaxy-solar-system.netlify.app/",
           img: "project1.png",
         },
         {
-          title: "Project 2",
+          title: "Project 3",
           link: "https://zvirti-jewelry-store.netlify.app/",
           img: "project2.png",
         },
         {
-          title: "Project 3",
+          title: "Project 4",
           link: "https://text-diff-checker.netlify.app/",
           img: "project3.png",
         },
