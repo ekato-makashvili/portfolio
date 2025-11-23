@@ -25,7 +25,7 @@
 
     <!-- Projects Grid -->
     <div
-      class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-4 gap-5 mt-10 relative z-10"
+      class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 gap-5 mt-10 relative z-10"
     >
       <a
         v-for="(proj, index) in projects"
@@ -60,27 +60,23 @@ export default {
         {
           title: "Project 1",
           link: "https://yoga-game.netlify.app/",
-          img: "yoga.gif",
+          img: "https://res.cloudinary.com/dmr48sbbr/image/upload/v1763874404/Screenshot_2025-11-23_090302_h8cdjy.png",
         },
         {
           title: "Project 2",
           link: "https://3d-galaxy-solar-system.netlify.app/",
-          img: "project1.png",
+          img: "https://res.cloudinary.com/dmr48sbbr/image/upload/v1763874767/solar_system_xw0vqh.gif",
         },
         {
           title: "Project 3",
           link: "https://zvirti-jewelry-store.netlify.app/",
           img: "project2.png",
         },
-        {
-          title: "Project 4",
-          link: "https://text-diff-checker.netlify.app/",
-          img: "project3.png",
-        },
       ],
       skills: [
         "JavaScript",
         "Vue.js",
+        "React.js",
         "Tailwind CSS",
         "Node.js",
         "Laravel",
