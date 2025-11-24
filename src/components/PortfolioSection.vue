@@ -60,7 +60,7 @@ export default {
         {
           title: "Project 1",
           link: "https://yoga-game.netlify.app/",
-          img: "https://res.cloudinary.com/dmr48sbbr/image/upload/v1763874404/Screenshot_2025-11-23_090302_h8cdjy.png",
+          img: "https://res.cloudinary.com/dmr48sbbr/image/upload/v1763982959/lotus_rl8qxd.gif",
         },
         {
           title: "Project 2",
