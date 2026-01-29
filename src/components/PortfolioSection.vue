@@ -59,7 +59,7 @@ export default {
       projects: [
         {
           title: "Project 1",
-          link: "https://yoga-game.netlify.app/",
+          link: "https://yoga-quiz.netlify.app/",
           img: "https://res.cloudinary.com/dmr48sbbr/image/upload/v1763982959/lotus_rl8qxd.gif",
         },
         {
