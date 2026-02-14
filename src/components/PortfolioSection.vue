@@ -59,18 +59,23 @@ export default {
       projects: [
         {
           title: "Project 1",
+          link: "https://3d-galaxy-solar-system.netlify.app/",
+          img: "https://res.cloudinary.com/dmr48sbbr/image/upload/v1763874767/solar_system_xw0vqh.gif",
+        },
+                {
+          title: "Project 2",
           link: "https://yoga-quiz.netlify.app/",
           img: "https://res.cloudinary.com/dmr48sbbr/image/upload/v1763982959/lotus_rl8qxd.gif",
         },
         {
-          title: "Project 2",
-          link: "https://3d-galaxy-solar-system.netlify.app/",
-          img: "https://res.cloudinary.com/dmr48sbbr/image/upload/v1763874767/solar_system_xw0vqh.gif",
-        },
-        {
           title: "Project 3",
-          link: "https://zvirti-jewelry-store.netlify.app/",
-          img: "project2.png",
+          link: "https://zvirti.netlify.app/",
+          img: "zvirti.gif",
+        },
+                {
+          title: "Project 4",
+          link: "https://willowy-biscuit-f2462a.netlify.app/",
+          img: "p4.gif",
         },
       ],
       skills: [
