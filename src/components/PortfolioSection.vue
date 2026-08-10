@@ -72,10 +72,10 @@ export default {
           link: "https://zvirti.netlify.app/",
           img: "zvirti.gif",
         },
-                {
+                        {
           title: "Project 4",
-          link: "https://willowy-biscuit-f2462a.netlify.app/",
-          img: "p4.gif",
+          link: "https://yoga-nature.onrender.com/",
+          img: "YOGA-NATURE.png",
         },
       ],
       skills: [
