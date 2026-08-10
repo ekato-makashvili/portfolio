@@ -75,7 +75,7 @@ export default {
                         {
           title: "Project 4",
           link: "https://yoga-nature.onrender.com/",
-          img: "YOGA-NATURE.png",
+          img: "lotus.png",
         },
       ],
       skills: [
